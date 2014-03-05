@@ -9,19 +9,19 @@
 ###Email Marketing
 *sample codes of my work on HTML email newsletters, similar to my work in [JustFab](http://www.justfab.com/)*
 * samplecode1_HTML
-![Sample Work Screenshot](http://s28.photobucket.com/user/mixnuts24/media/EmailNewsletter_Screenshot3_zps6130aba4.jpg.html)
+![Sample Work Screenshot](http://i28.photobucket.com/albums/c242/mixnuts24/EmailNewsletter_Screenshot3_zps6130aba4.jpg)
 * samplecode2_HTML 
-![Sample Work Screenshot](http://s28.photobucket.com/user/mixnuts24/media/EmailNewsletter_Screenshot7_zpsf2547d25.jpg.html)
+![Sample Work Screenshot](http://i28.photobucket.com/albums/c242/mixnuts24/EmailNewsletter_Screenshot7_zpsf2547d25.jpg)
 * samplecode3_HTML
-![Sample Work Screenshot](http://s28.photobucket.com/user/mixnuts24/media/EmailNewsletter_Screenshot1_zps62684c9b.jpg.html)
+![Sample Work Screenshot](http://i28.photobucket.com/albums/c242/mixnuts24/EmailNewsletter_Screenshot2_zps47b47c05.jpg)
 * samplecode4_HTML 
-![Sample Work Screenshot](http://s28.photobucket.com/user/mixnuts24/media/EmailNewsletter_Screenshot5_zpscf076398.jpg.html)
+![Sample Work Screenshot](http://i28.photobucket.com/albums/c242/mixnuts24/EmailNewsletter_Screenshot5_zpscf076398.jpg)
 * samplecode5_HTML
-![Sample Work Screenshot](http://s28.photobucket.com/user/mixnuts24/media/EmailNewsletter_Screenshot6_zpsd224cd30.jpg.html)
+![Sample Work Screenshot](http://i28.photobucket.com/albums/c242/mixnuts24/EmailNewsletter_Screenshot6_zpsd224cd30.jpg)
 
 ###Email Marketing
 *sample codes of my work on my thesis project called Adaptive Stable Matching Algorithm coded in Java*
-*Advisee.java
-*Adviser.java
-*ModifiedGaleShapley.java
+* Advisee.java
+* Adviser.java
+* ModifiedGaleShapley.java
 
