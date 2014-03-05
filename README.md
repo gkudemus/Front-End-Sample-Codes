@@ -19,7 +19,15 @@
 * samplecode5_HTML
 ![Sample Work Screenshot](http://i28.photobucket.com/albums/c242/mixnuts24/EmailNewsletter_Screenshot6_zpsd224cd30.jpg)
 
-###Email Marketing
+###Python
+*Sample codes for Python - Exercises from Bixly Philippines Python and Django Framework Training*
+* CountAddAverage.py
+* Even Number.py
+* Flip Sort.py
+* Palindrome.py
+* String Rotation.py
+
+###JAVA
 *sample codes of my work on my thesis project called Adaptive Stable Matching Algorithm coded in Java*
 * Advisee.java
 * Adviser.java
